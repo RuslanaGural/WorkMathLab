@@ -1,0 +1,12 @@
+.output-matrix-row {
+    display: flex;
+}
+
+.output-matrix-cell {
+    min-width: 48px;
+    margin: 4px;
+    background-color: var(--main-color);
+    color: var(--main-bg-color);
+    padding: 8px;
+    border-radius: 4px;
+}

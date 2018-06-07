@@ -1,0 +1,10 @@
+.input-matrix-cell {
+    width: 48px;
+    margin: 4px;
+}
+
+.input-matrix-row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
